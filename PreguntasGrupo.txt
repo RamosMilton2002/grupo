@@ -15,3 +15,6 @@ Respuesta Ramos 2 :Un repositorio local en Git es una copia del repositorio que 
 Pregunta 3 Jeferson: ¿Cómo eliminar un branch?
 
 R. Alexander 3 : Se utiliza el comando git branch -d <nombre-de-la-rama>
+
+
+Respuesta Ramos 3 :git branch -d <nombre_de_la_rama>
