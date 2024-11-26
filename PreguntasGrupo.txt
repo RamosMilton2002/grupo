@@ -1,7 +1,9 @@
 Autor: Milton Ramos
 
-Pregunta 1: ¿Qué es un repositorio en Git?
+Pregunta 1 Jeferson: ¿Qué es un repositorio en Git?
 
 R. Alexander : Un repositorio en Git es una estructura de datos que almacena todos los archivos de un proyecto, junto con su historial de cambios, para que puedan ser rastreados, versionados y colaborados de manera eficiente. 
 
 Respuesta Ramos : Un repositorio en Git es un espacio donde se almacenan los archivos de un proyecto y su historial de cambios, permitiendo gestionar versiones, colaborar con otros.
+
+Pregunta 1 Jeferson: ¿Qué es un repositorio local en Git?
