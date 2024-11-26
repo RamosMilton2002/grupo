@@ -9,3 +9,5 @@ Respuesta Ramos : Un repositorio en Git es un espacio donde se almacenan los arc
 Pregunta 2 Jeferson: ¿Qué es un repositorio local en Git?
 
 R. Alexander 2 : Un repositorio local en Git es un repositorio almacenado en tu computadora que contiene todos los archivos y el historial de cambios de un proyecto.
+
+Respuesta Ramos 2 :Un repositorio local en Git es una copia del repositorio que se encuentra en tu máquina local.
