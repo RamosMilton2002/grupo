@@ -1,1 +1,3 @@
 Autor: Milton Ramos
+
+Pregunta 1: ¿Qué es un repositorio en Git?
