@@ -21,3 +21,6 @@ Respuesta Ramos 3 :git branch -d <nombre_de_la_rama>
 Pregunta 4 Jeferson: ¿Cómo renombrar un branch?
 
 R. Alexander 4 : Se utiliza el comando git branch -m <nuevo-nombre>
+
+Respuesta Ramos 4 : git branch -m <nuevo_nombre>
+
