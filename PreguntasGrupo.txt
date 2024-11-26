@@ -26,4 +26,6 @@ Respuesta Ramos 4 : git branch -m <nuevo_nombre>
 
 Pregunta 5 Jeferson: ¿Que tal les pareció la tarea?
 
+Respuesta Ramos 5 : Muy cansado :(
+
 
