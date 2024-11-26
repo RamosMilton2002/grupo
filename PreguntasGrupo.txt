@@ -24,3 +24,6 @@ R. Alexander 4 : Se utiliza el comando git branch -m <nuevo-nombre>
 
 Respuesta Ramos 4 : git branch -m <nuevo_nombre>
 
+Pregunta 5 Jeferson: ¿Que tal les pareció la tarea?
+
+
